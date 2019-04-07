@@ -1,3 +1,6 @@
 1. Create Laravel Project
 2. Configure Database
 3. Make Authentication
+## Created New Branch [adminlte]
+4. bower install admin-lte@v3.0.0-alpha.2
+5.
